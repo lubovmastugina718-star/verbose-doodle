@@ -1,4 +1,4 @@
-// Utility functions for repos_verbose-doodle
+// Utility functions for repos_hist_verbose-doodle_20250621
 export function formatDate(date) {
     return new Date(date).toLocaleDateString();
 }
