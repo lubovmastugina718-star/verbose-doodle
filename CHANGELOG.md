@@ -1,0 +1,3 @@
+# CHANGELOG
+
+Add error handling
