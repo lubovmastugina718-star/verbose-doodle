@@ -13,3 +13,7 @@ Update error codes
 ## Update
 
 Update API documentation
+
+## Update
+
+Improve error handling
