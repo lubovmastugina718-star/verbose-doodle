@@ -17,3 +17,7 @@ Update API documentation
 ## Update
 
 Improve error handling
+
+## Update
+
+Update build script
