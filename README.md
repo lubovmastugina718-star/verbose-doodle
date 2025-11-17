@@ -21,3 +21,7 @@ Improve error handling
 ## Update
 
 Update build script
+
+## Update
+
+Add new feature
