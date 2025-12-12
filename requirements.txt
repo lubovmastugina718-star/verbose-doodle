@@ -5,3 +5,5 @@
 # Add type hints
 
 # Add caching mechanism
+
+# Improve performance
