@@ -45,3 +45,7 @@ Improve performance
 ## Update
 
 Add new utility function
+
+## Update
+
+Improve error handling
