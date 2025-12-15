@@ -7,3 +7,5 @@
 # Add caching mechanism
 
 # Improve performance
+
+# Update package.json
