@@ -49,3 +49,7 @@ Add new utility function
 ## Update
 
 Improve error handling
+
+## Update
+
+Update tests
