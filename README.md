@@ -57,3 +57,7 @@ Update tests
 ## Update
 
 Add caching mechanism
+
+## Update
+
+Update build script
