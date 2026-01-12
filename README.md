@@ -65,3 +65,7 @@ Update build script
 ## Update
 
 Add input validation
+
+## Update
+
+Clean up code
