@@ -69,3 +69,7 @@ Add input validation
 ## Update
 
 Clean up code
+
+## Update
+
+Improve performance
