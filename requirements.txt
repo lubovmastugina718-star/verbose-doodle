@@ -11,3 +11,5 @@
 # Update package.json
 
 # Add error recovery
+
+# Add error handling
