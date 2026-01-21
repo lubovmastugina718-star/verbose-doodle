@@ -77,3 +77,7 @@ Improve performance
 ## Update
 
 Fix security issue
+
+## Update
+
+Fix linting errors
